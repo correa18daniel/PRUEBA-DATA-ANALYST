@@ -1,0 +1,28 @@
+De acuerdo al Analisis general de la Información podemos definir los siguientes
+ hallazgo de acuerdo de acuerdo a las preguntas Formuladas en la prueba:
+
+1. El punto que corresponde a una mejor estrategia optima en el control
+de inventarios y sus ventas es el P1 debido a que apesar de tener el 70% de sus
+laminas con un tiempo en inventario mayor a 90 días cumple con el inventario Ideal
+del punto con 5000 laminas, Ademas de elló Sus ventas son Directamente proporcional al
+Stock que tienen actualmente.
+
+2. De acuerdo a la geolocalización dada para la orientación de los puntos y la cantidad 
+de laminas que tienen en existencia fuera del rango de noventa días se propone la siguiente
+ruta de acuerdo al Analisis dado:
+
+a. Salir de Bodega principal con 2600 laminas
+b. ir al punto de venta 2: dejar 2600 y recoger 9600
+c.Ir al punto de ventas 3: dejar 5000 laminas del punto 2 y recoger 7000 laminas
+d. Ir al punto de venta 4: Dejar 4400 laminas del punto 3 y recoger 5400 laminas
+e. Ir al punto de venta 1: dejar 3500 laminas del punto 2 y recoger 3500 laminas
+f. Ir al punto de venta 5: dejar 2200 laminas del punt 4 y recoger 1200 laminas
+g. Regresar a bodega principal con 11.600.
+
+La estrategia antes planteada se realiza con el Fin de mantener el Balance
+de los inventarios y una rotación optima acorde a los parametros del inventario ideal
+y los tiempos maximos en punto.
+
+
+
+Link del BI:https://app.powerbi.com/view?r=eyJrIjoiMDkyM2Y2OGMtYzk5MC00OWUyLWFkZWMtOTYyNjM4YjJhN2I4IiwidCI6IjYwYzMwOTZmLTQ2MDktNGM0NC05YjEwLTdmNWQ4NDk5ODMxYiJ9

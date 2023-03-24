@@ -1,0 +1,1 @@
+select * from puntos_de_venta;
